@@ -125,7 +125,7 @@ for your own customization, automation, timers and so on ..
 
 What's new?
 -----------
-Comparing this repo to the "old wifite" @ https://github.com/derv82/wifite
+Comparing this repo to the "old wifite" @ https://github.com/cyberkattappa779/wifite2.git
 
 * **Less bugs**
    * Cleaner process management. Does not leave processes running in the background (the old `wifite` was bad about this).
