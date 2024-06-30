@@ -9,7 +9,7 @@
 Wifite
 ======
 
-This repo is a complete re-write of [`wifite`](https://github.com/derv82/wifite), a Python script for auditing wireless networks.
+This repo is a complete re-write of [`wifite`](https://github.com/cyberkattappa779/wifite2.git), a Python script for auditing wireless networks.
 
 Wifite runs existing wireless-auditing tools for you. Stop memorizing command arguments & switches!
 
@@ -85,7 +85,7 @@ $ pip3 install -r requirements.txt
 Run Wifite
 ----------
 ```sh
-$ git clone https://github.com/kimocoder/wifite2.git
+$ git clone https://github.com/cyberkattappa779/wifite2.git
 $ cd wifite2
 $ sudo ./wifite.py
 ```
